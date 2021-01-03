@@ -1,0 +1,7 @@
+Toda aplicação escrita em Java precisa ter um método public static void
+main(String[] args)? Porque?
+
+- Serve para dizer que o método é público, estático (sempre compartilhado com todos os atributos da class), 
+void (que não vai retornar um valor), main (primeiro método a ser executado no programa) e (String [] args), 
+para dizer que o usuário pode passar argumentos como string. Em resumo, serve para falar ao sistema
+onde deve ser iniciado o programa.
